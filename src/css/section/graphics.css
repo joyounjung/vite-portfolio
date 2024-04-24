@@ -10,7 +10,7 @@
 }
 
 .graph_title {
-    position: sticky;
+    /* position: sticky; */
     top: 70px;
     left: 0;
     width: 100%;
@@ -98,9 +98,9 @@
     margin-left: 10%;
 } */
 
-.graph_wrap .stage2 ul.size:nth-child(2) {
+.graph_wrap .stage2 ul.size li:nth-child(1){
     width: 55%;
-    margin-left: -50%;
+    margin-left: -50px;
 }
 
 .img_box {

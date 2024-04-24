@@ -116,9 +116,11 @@
 @media screen and (max-width:768px) {
     .work_title{
         width: 100%;
+        height: auto;
         margin-bottom: 16px;
         font-size: 30px;
-        height: auto;
+        top: 68px;
+        background-color: var(--mainBg-color);
     }
     .work_item{
         width: 300px;
